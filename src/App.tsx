@@ -183,8 +183,8 @@ export default function App() {
             <div className="relative">
               <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
                 <img 
-                  src="https://picsum.photos/seed/magic-sad/800/800" 
-                  alt="Boring party" 
+                  src="https://res.cloudinary.com/dkjisu2tu/image/upload/v1771905598/485696430_1404335670893240_2821043616467214836_n_chgqw2.jpg" 
+                  alt="Magia en Lima" 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   referrerPolicy="no-referrer"
                 />

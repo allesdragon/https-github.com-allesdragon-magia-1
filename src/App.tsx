@@ -23,8 +23,7 @@ import {
 import { motion } from 'motion/react';
 import React, { useState, ReactNode } from 'react';
 
-const WHATSAPP_NUMBER = "51999999999"; // Placeholder for the user to update
-const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}?text=Hola!%20Quisiera%20información%20sobre%20el%20show%20de%20magia%20para%20un%20cumpleaños.`;
+const WHATSAPP_LINK = "https://wa.link/zpwlpi";
 
 const SectionTitle = ({ children, subtitle, light = false }: { children: ReactNode, subtitle?: string, light?: boolean }) => (
   <div className="mb-12 text-center">
